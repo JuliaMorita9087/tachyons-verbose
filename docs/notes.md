@@ -2,3 +2,4 @@
 
 Notes and usage details for tachyons-verbose.
 - fix a small wording issue
+- fix a small wording issue
