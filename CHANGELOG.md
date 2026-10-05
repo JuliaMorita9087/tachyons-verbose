@@ -44,3 +44,4 @@
 - chore: add a note about the defaults
 - chore: fix a small wording issue
 - fix: add a note about the defaults
+- fix: link the usage section
