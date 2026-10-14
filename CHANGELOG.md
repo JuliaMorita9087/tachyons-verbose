@@ -50,3 +50,4 @@
 - fix: add a note about the defaults
 - fix: add a note about the defaults
 - docs: link the usage section
+- chore: fix a small wording issue
